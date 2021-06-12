@@ -2,7 +2,7 @@
 Compilato dai post su Semper Initiativus Unum di Wayne Rossi
 [http://initiativeone.blogspot.com](http://initiativeone.blogspot.com/)
 
-Mappa di Pieralberto Cavallo
+[Mappa](./img/OD&D_Setting_frame.png) di Pieralberto Cavallo
 
 Traduzione di Roberto Bisceglie
 
